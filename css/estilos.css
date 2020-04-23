@@ -1,0 +1,110 @@
+body {
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #08ABA1;
+    color: azure;
+    padding: 0 10px 10px 10px;
+    border: 5px solid bisque;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35xp;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: gold;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30xp;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-size: 25xp;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: gold;
+}
+
+h4 {
+    font-size: 20xp;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: gold;
+}
+
+h5 {
+    font-size: 15xp;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: gold;
+}
+
+div {
+    width: 880;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    margin: 15px;
+    padding: 15px;
+    background-origin: padding-box;
+    border: 2px solid black;
+}
+
+tr {
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+td {
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+th {
+    margin: auto;
+    padding: 10px;
+}
+
+a {
+    color: chartreuse;
+}
+
+li {
+    font-weight: bold;
+    color: gold;
+}
+
+.ejemplo {
+    color: firebrick;
+    font-weight: bold;
+}
+
+iframe {
+    margin-left: 200px;
+}
+
+p {
+    margin: 40px;
+}
+
+.experiencia {
+    margin-top: 2em;
+    font-size: 50xp;
+    font-weight: bold;
+    text-underline-position: above;
+}
